@@ -51,13 +51,3 @@ Dataset Source Link :
 
 5. Flask App creation : 
     * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
-
-# Exploratory Data Analysis Notebook
-
-Link : [EDA Notebook](./notebook/1_EDA_Gemstone_price.ipynb)
-
-# Model Training Approach Notebook
-
-Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
-
-
